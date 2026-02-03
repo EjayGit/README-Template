@@ -22,9 +22,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  <div align="center">
+    <a href="https://www.php.net">
+        <img
+            alt="PHP"
+            src="https://www.php.net/images/logos/new-php-logo.svg"
+            width="150">
+    </a>
+</div>
 
   <h3 align="center">PHP data fetching in VS Code</h3>
 
