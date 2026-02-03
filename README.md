@@ -96,8 +96,8 @@ Because php runs everywhere - almost every shared hosting provider runs php - th
 
 The framework is supported by XAMPP for its Apache webserver and php interpreter.
 
-[PHP.com]: 
-* [![php][php.com]][php-url]
+
+[![php][php.com]][php-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,5 +236,5 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white
+[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=xampp&logoColor=white
 [php-url]: https://php.net
