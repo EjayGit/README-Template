@@ -146,15 +146,14 @@ This is a list of things you need to run and test php locally with vscode.
 
 * To get yourself up and running, use ```<?php echo'Hello Universe';?>```
 
-* Save your file in 'C:/xampp/htdocs/<project foldername>/<filename>
+* Save your file in ```C:/xampp/htdocs/<project foldername>/<filename>```
 
-* Right click the code file window and select 'PHP Server: Serve project'
+* Right click the code file window and select ```PHP Server: Serve project```
 
-* View http://localhost:3000/<filename>
+* View ```http://localhost:3000/<filename>```
 
-* To stop the server, right click the code file window and select 'PHP Server: Stop server' 
+* To stop the server, right click the code file window and select ```PHP Server: Stop server```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
