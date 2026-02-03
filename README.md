@@ -236,5 +236,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=xampp&logoColor=white
+[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://php.net
+[xampp.com]: https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=xampp&logoColor=white
+[xampp-url]: https://apachefriends.org
