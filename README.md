@@ -118,13 +118,17 @@ This is a list of things you need to run and test php locally with vscode.
 
 ### Installation for Windows
 
+#### VS Code
+
+1. Download VS Code from ```https://code.visualstudio.com/download```
+2. Install ```PHP Server``` extension by ```brapifra``` in VS Code.
+
 #### XAMPP
 
 1. Download XAMPP from ```https://www.apachefriends.org/```
 2. Install XAMPP
 3. Change XAMPP editor folder in config to ```C:\<path to VS Code executable>\Microsoft VS Code\Code.exe```
-4. Install ```PHP Server``` extension by ```brapifra``` in VS Code.
-5. Edit vscode config setting:
+4. Edit vscode config setting:
   
   a) ```"phpserver.phpPath": "C:/xampp/php/php.exe"```
   
@@ -132,10 +136,6 @@ This is a list of things you need to run and test php locally with vscode.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-#### VS Code
-
-1. Download VS Code from ...
 
 <!-- USAGE EXAMPLES -->
 ## Usage
