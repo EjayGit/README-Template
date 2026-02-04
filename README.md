@@ -64,7 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#php use">Usage</a></li>
+    <li><a href="#php-use">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#conclusions">Conclusions</a></li>
   </ol>
@@ -139,7 +139,7 @@ This is a list of things you need to run and test php locally with vscode.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- PHP Use EXAMPLES -->
+<!-- PHPUse -->
 ## PHP Use
 
 * To get yourself up and running. create a file in VS Code called ```<filename.php>```, and write the following code in the file ```<?php echo'Hello Universe';?>```
