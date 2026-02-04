@@ -136,7 +136,7 @@ This is a list of things you need to run and test php locally with vscode.
 
 #### API 
 
-1. Set up a simple API via Vercel by preparing a file with a JSON
+1. Set up a simple API via Vercel by preparing a file with a JSON structure.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -168,6 +168,7 @@ This is a list of things you need to run and test php locally with vscode.
 * Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
 * A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and <a href="https://www.php.net/manual">PHP Docs</a>. These provide a good guide to PHP and its uses.
 * Ironically cURL is not in the PHP docs, but this is because it is not a PHP specific. It can bind to over 50 different languages.
+* https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
