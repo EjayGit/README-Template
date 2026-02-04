@@ -93,7 +93,7 @@ Because php runs everywhere - almost every shared hosting provider runs php - th
 
 ### Built With
 
-The project is supported by XAMPP for its php interpreter.
+The project is supported by XAMPP for its php interpreter and database function.
 
 [![php][php.com]][php-url]
 
@@ -134,9 +134,11 @@ This is a list of things you need to run and test php locally with vscode.
   
   b) ```"phpserver.phpConfigPath": "C:/xampp/php/php.ini"```
 
-#### API 
+#### Preparing an test API
 
 1. Set up a simple API via Vercel by preparing a file with a JSON structure.
+2. Upload file to Github repository.
+3. Connect Vercel to this repository, deploy, and await the magic to happen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,16 +149,15 @@ This is a list of things you need to run and test php locally with vscode.
 
 * Save your file in ```C:/xampp/htdocs/<project foldername>/<filename>```
 
-* Right click the code file window and select ```PHP Server: Serve project```
+* Right click inside the VS Code file window and select ```PHP Server: Serve project```
 
-* View ```http://localhost:3000/<filename>```
+* View ```http://localhost:3000/<filename>``` in the browser if it does not open automatically.
 
-* To stop the server, right click the code file window and select ```PHP Server: Stop server```
+* To stop the server, right click the VS Code file window and select ```PHP Server: Stop server```
 
 * To demonstrate the code for using cURL in PHP, please see the following video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OKIw5_d0YEQ/0.jpg)](https://www.youtube.com/watch?v=OKIw5_d0YEQ)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
