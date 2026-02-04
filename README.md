@@ -177,6 +177,11 @@ This is a list of things you need to run and test php locally with vscode.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- CONCLUSIONS -->
+## Conclusions
+
+* 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white
