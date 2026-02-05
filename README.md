@@ -9,6 +9,7 @@
             width="150">
     </a>
 </div>
+</div>
 
   <h3>PHP data fetching in VS Code</h3>
 
