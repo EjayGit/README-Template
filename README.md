@@ -10,7 +10,7 @@
     </a>
 </div>
 
-  <h3 align="center">PHP data fetching in VS Code</h3>
+  <h3>PHP data fetching in VS Code</h3>
 
 
 <!-- TABLE OF CONTENTS -->
