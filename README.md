@@ -169,14 +169,14 @@ This is a list of things you need to run and test php locally with vscode.
 - [x] Prepare VsCode and XAMPP
 - [x] Document VS COde and XAMPP setup
 - [x] Demo fetch from API using cURL
-- [ ] Document cURL pull
+- [x] Document cURL pull
 - [ ] Demo fetch from database
 - [ ] Document database fetch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONCLUSIONS -->
-## Conclusions
+## Reflection
 
 * 
 
