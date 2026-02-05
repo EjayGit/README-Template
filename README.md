@@ -154,7 +154,9 @@ This is a list of things you need to run and test php locally with vscode.
   * <a href="https://stackoverflow.com/questions/4683554/remotely-connecting-to-a-mysql-database">Remote connectino to MySQL database</a>
   * <a href="https://supabase.com/docs/guides/troubleshooting/resolving-database-hostname-and-managing-your-ip-address-pVlwE0">Resolving database hostname</a>
   * <a href="https://www.w3schools.com/php/php_constants.asp">Defining database constraints</a>
-* To further help with mySQL, we recommend the following references: <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a> and <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>.
+* To further help with mySQL, we recommend the following references:
+  * <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a>
+  * <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
