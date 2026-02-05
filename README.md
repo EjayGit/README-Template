@@ -157,6 +157,9 @@ This is a list of things you need to run and test php locally with vscode.
   * <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a>
   * <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>
 
+### API
+* We recommend this link to guide you through your <a href="https://www.abstractapi.com/guides/api-functions/how-to-build-an-api">first API</a>.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
