@@ -140,8 +140,7 @@ This is a list of things you need to run and test php locally with vscode.
 ## Resources
 
 ### XAMPP
-
-
+* <a href="https://www.apachefriends.org/">XAMPP</a> is very easy to download and install for Windows. Simply follow the GUI on installation.
 
 ### PHP
 * Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
@@ -151,11 +150,11 @@ This is a list of things you need to run and test php locally with vscode.
 * Ironically, given we have based our brief on using cURL in PHP, cURL is not in the PHP docs, but this is because it is not PHP specific. It can bind to over 50 different languages.
 
 ### Remote Database Connections
-* 
-
-
-
-* To help with mySQL, we used the following references: <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a> and <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>.
+* There are a number of resources we recommend for connecting to a remote database with PHP. Here are the key ones to read:
+  * <a href="https://stackoverflow.com/questions/4683554/remotely-connecting-to-a-mysql-database">Remote connectino to MySQL database</a>
+  * <a href="https://supabase.com/docs/guides/troubleshooting/resolving-database-hostname-and-managing-your-ip-address-pVlwE0">Resolving database hostname</a>
+  * <a href="https://www.w3schools.com/php/php_constants.asp">Defining database constraints</a>
+* To further help with mySQL, we recommend the following references: <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a> and <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
