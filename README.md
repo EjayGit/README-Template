@@ -177,6 +177,7 @@ This has been an enjoyable project, getting to know, or getting to know better, 
 * Skills improved: Project planning, research, 
 * How you communicate: We ran our daily stand up and did major updates on our trello board during this time.
 * Lessons learned: Always make sure you refer to the project requirements throughout the project to ensure you remain on target. For an assessment, always keep the assessment criteria close by.
+* Start presentation earlier..!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
