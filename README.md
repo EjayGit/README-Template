@@ -172,7 +172,11 @@ This is a list of things you need to run and test php locally with vscode.
 <!-- CONCLUSIONS -->
 ## Reflection
 
-* 
+This has been an enjoyable project, getting to know, or getting to know better, PHP with cURL for VS Code.
+
+* Skills improved: Project planning, research, 
+* How you communicate: We ran our daily stand up and did major updates on our trello board during this time.
+* Lessons learned: Always make sure you refer to the project requirements throughout the project to ensure you remain on target. For an assessment, always keep the assessment criteria close by.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
